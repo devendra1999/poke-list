@@ -1,8 +1,8 @@
-/*
-Clean up funtions
-used CRA to create boiler plate code
-pagination 
-why axios -> fetch()
-tid application for experimentation
-experimenting with pagination, axios, axios cancelToken etc
-*/
+Refreshed React components
+
+Integrated a public API and experimented with:
+1.) Pagination
+2.) Code cleanup (avoid memory leaks)
+3.) Props drilling
+4.) Switched from fetch to Axios
+5.) Implemented Axios cancelToken, etc.
