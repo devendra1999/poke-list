@@ -27,7 +27,8 @@ function App() {
       setPrevPageUrl(previous);
       setPokemon(results.map(p => p));
     })
-    return() => cancel() // just calling the fucnction ref
+
+    return() => cancel() // just calling the function ref (clean up function)
 
   },[currentPageUrl]);
 
